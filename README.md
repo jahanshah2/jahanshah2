@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Sayed Jahan and I'm a student passionate about technology and programming. Currently, I'm exploring various fields within computer science to find where my interests lie.
+My name is Sayed Jahan Shah and I'm a student passionate about technology and programming. Currently, I'm exploring various fields within computer science to find where my interests lie.
 
 - 🌱 I’m currently learning [ Typescript ]
 - 💼 Looking for opportunities to collaborate on interesting projects
@@ -10,7 +10,7 @@ My name is Sayed Jahan and I'm a student passionate about technology and program
 
 ## Skills
 
-- Programming Languages: [learning typescript language's ]
+- Programming Languages: [learning Typescript,Python,Css,Html,& Java ]
 
 ## Projects
 
