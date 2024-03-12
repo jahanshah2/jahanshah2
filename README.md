@@ -11,6 +11,11 @@ My name is Sayed Jahan Shah and I'm a student passionate about technology and pr
 ## Skills
 
 - Programming Languages: [learning Typescript,Python,Css,Html,& Java ]
+![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Java Logo](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)
+![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg)
+![CSS3 Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
 
 ## Projects
 
