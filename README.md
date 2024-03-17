@@ -21,7 +21,7 @@ My name is Sayed Jahan Shah and I'm a student passionate about technology and pr
 
 Here are a few projects I've worked on:
 
-- [Project 1](link-to-project1): Brief description
+- [Project 1](https://github.com/jahanshah2/Simple-Calculator): Brief description
 - [Project 2](link-to-project2): Brief description
 
 Feel free to explore my repositories to see more of my work!
