@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Sayed Jahan Shah and I'm a student passionate about technology and programming. Currently, I'm exploring various fields within computer science to find where my interests lie.
+My name is Sayed Jahan Shah, and I am a student at GIAIC. I have a great passion for programming, and I am currently learning TypeScript. It's my first quarter, and my dream is to become a full-stack developer.
 
 - 🌱 I’m currently learning [ Typescript ]
 - 💼 Looking for opportunities to collaborate on interesting projects
